@@ -1,7 +1,12 @@
-repository-name
-# Repository Name
+tavily
+# Tavily
 
-Based on "ABC" at https://www.abc.com/
+> Connect your LLM to the web<br/>
+> Tavily Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick, and persistent search results
+
+Based on "Fabric: The Best AI Integration Tool For Obsidian" at https://www.youtube.com/watch?v=TIXNqBzx3O0
+
+Based on "Tavily" at https://tavily.com
 
 ## 100 - Introduction
 
